@@ -1,0 +1,15 @@
+/* index */
+
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div,
+.text-center {
+    text-align: center;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
